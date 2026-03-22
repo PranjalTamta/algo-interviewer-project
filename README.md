@@ -1,4 +1,4 @@
-# algo-interviewer project
+# Algo-interviewer project
 AlgoInterviewer AI is a React + Vite chatbot project for practicing data structures and algorithms interviews.
 It starts with a landing page, lets the user choose a difficulty level, generates an interview question through Groq, and then continues the interview inside a chat-style interface.
 
